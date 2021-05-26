@@ -1,0 +1,6 @@
+ecommerce/vendor
+ecommerce/.env
+prometheus/data
+.DS_Store
+.idea
+ecommerce/.docker/dbdata
